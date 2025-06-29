@@ -10,7 +10,7 @@
 
   ```bash
   mkdir -p pasta_real ponto_montagem
-
+  ```
 
 * Altere a seguinte linha do código:
 
