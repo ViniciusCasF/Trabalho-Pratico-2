@@ -6,6 +6,12 @@
     sudo apt install g++ libfuse3-dev
   ```
 
+* Crie as pastas necessárias no diretório do projeto:
+
+  ```bash
+  mkdir -p pasta_real ponto_montagem
+
+
 * Altere a seguinte linha do código:
 
    * ###### define REAL_DIR "/home/vinicius_castro_filaretti/MEGA/Faculdade 5 Periodo/Sistemas Operacionais/Códigos/Trabalho 2/pasta_real"
